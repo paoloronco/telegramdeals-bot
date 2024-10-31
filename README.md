@@ -41,4 +41,7 @@ This bot can be used for various purposes:
 
 ## Purchase & Support
 To learn more, get support, and purchase the bot, please visit our website: [telegramdeals-bot.com](http://telegramdeals-bot.com)
+
+Upon purchase, you will also receive a comprehensive guide for using and deploying the bot, ensuring you get started quickly and effectively.
+
 If you have questions or require assistance, contact us via email: [info@telegramdeals-bot.com](mailto:info@telegramdeals-bot.com)
