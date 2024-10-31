@@ -16,3 +16,16 @@ Find out more and purchase the bot on the official site 👉 telegramdeals-bot.c
 - **Scheduled Notifications**: Set the frequency and timing of deal updates to align with your audience's peak engagement times.
 - **Multi-Region Compatibility**: Supports monitoring across different Amazon regions.
 
+
+## How it Works
+
+This bot leverages several key APIs to streamline deal sharing on Telegram:
+
+- **Amazon Product Advertising API (PA API 5.0)**  
+   This official Amazon API allows programmatic access to product information such as pricing, reviews, and deals, ensuring up-to-date listings for your audience. It enables the bot to pull specific product attributes, offers, and filter by criteria like discounts, product categories, and more.
+
+- **Telegram Bot API and Channel API**  
+   The bot uses Telegram’s APIs to automatically post offers directly into designated Telegram channels or groups, making it easy for users to stay informed on the latest deals.
+
+- **Affiliate Tag Integration**  
+   Each shared Amazon link includes your unique affiliate tag, allowing you to earn commissions on every purchase made through your links.
