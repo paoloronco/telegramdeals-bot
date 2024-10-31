@@ -29,3 +29,16 @@ This bot leverages several key APIs to streamline deal sharing on Telegram:
 
 - **Affiliate Tag Integration**  
    Each shared Amazon link includes your unique affiliate tag, allowing you to earn commissions on every purchase made through your links.
+
+
+## Use Cases
+This bot can be used for various purposes:
+
+- **Affiliate Marketing:** Drive traffic from Telegram to Amazon with affiliate links, earning commissions on each sale.
+- **Community Deal Sharing:** Easily share relevant deals with a community or audience on Telegram, such as tech gadgets, home essentials, and more.
+- **Real-Time Discount Alerts:** Provide your Telegram subscribers with live updates on the best Amazon deals as they happen.
+
+
+## Purchase & Support
+To learn more, get support, and purchase the bot, please visit our website: [telegramdeals-bot.com](http://telegramdeals-bot.com)
+If you have questions or require assistance, contact us via email: [info@telegramdeals-bot.com](mailto:info@telegramdeals-bot.com)
